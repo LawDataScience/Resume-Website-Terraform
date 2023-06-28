@@ -1,0 +1,2 @@
+dockerhub_credentials = "arn:aws:secretsmanager:us-east-1:826720015447:secret:lawdatascience-codepipeline-dockerhub-5RWIh6"
+codestar_connector_credentials = "arn:aws:codestar-connections:us-east-1:826720015447:connection/4cdd00d5-6bd4-4c7c-8495-d69030d58892"
